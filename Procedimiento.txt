@@ -1,0 +1,7 @@
+# Para correr aplicacion de trasncripcion de audio 
+
+python transcribe.py mi_video.mp4
+
+# Para Correr programa de pegado de subtitulos a video 
+
+python translate.py output/mi_video_transcription.json mi_video.mp4

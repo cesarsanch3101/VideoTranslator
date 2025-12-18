@@ -1,0 +1,23 @@
+# Core ML/DL Framework for GPU acceleration
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+torchaudio==2.2.2+cu121
+
+# Transcription - High performance Whisper implementation
+faster-whisper==1.0.3
+
+# Translation - Hugging Face ecosystem
+transformers==4.41.2
+sentencepiece==0.2.0
+accelerate==0.30.1
+
+# Text-to-Speech (TTS)
+TTS==0.22.0
+
+# Video/Audio Processing
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+
+# Utilities
+tqdm==4.66.4
+python-dotenv==1.0.1
